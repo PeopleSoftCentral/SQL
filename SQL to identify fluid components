@@ -1,0 +1,1 @@
+SELECT A.PNLGRPNAME "Component Name", A.DESCR "Compnent Description if any" FROM PSPNLGRPDEFN A WHERE FLUIDMODE = 1;
